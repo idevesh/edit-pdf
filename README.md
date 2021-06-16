@@ -1,4 +1,4 @@
-# edit-pdf
+# Edit Covid Vaccination Certificate
 
 **Disclaimer**: This Software will place a photo of national Flag on the Covid Vaccination Certificate. This software is made only for entertainment purposes, don't misuse it. Any misuse of this software Owner will not be responsible for the consequenses.
 
